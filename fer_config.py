@@ -23,24 +23,24 @@
 # MODEL_SAVE_PATH = "/home/user/model/fer"
 
 # 我们方便实验重置到win环境下
-image_train_path = '.\\xiaowu\\data\\fer2013\\train\\'
-label_train_path = '.\\xiaowu\\data\\fer2013\\labels_train.txt'
-tfRecord_train = '.\\xiaowu\\data\\fer2013\\fer2013_train.tfrecords'
-image_valid_path = '.\\xiaowu\\data\\fer2013\\valid\\'
-label_valid_path = '.\\xiaowu\\data\\fer2013\\labels_valid.txt'
-tfRecord_valid = '.\\xiaowu\\data\\fer2013\\fer2013_valid.tfrecords'
-image_test_path = '.\\xiaowu\\data\\fer2013\\test\\'
-label_test_path = '.\\xiaowu\\data\\fer2013\\labels_test.txt'
-tfRecord_test = '.\\xiaowu\\data\\fer2013\\fer2013_test.tfrecords'
+image_train_path = '..\\xiaowu\\data\\fer2013\\train\\'
+label_train_path = '..\\xiaowu\\data\\fer2013\\labels_train.txt'
+tfRecord_train = '..\\xiaowu\\data\\fer2013\\fer2013_train.tfrecords'
+image_valid_path = '..\\xiaowu\\data\\fer2013\\valid\\'
+label_valid_path = '..\\xiaowu\\data\\fer2013\\labels_valid.txt'
+tfRecord_valid = '..\\xiaowu\\data\\fer2013\\fer2013_valid.tfrecords'
+image_test_path = '..\\xiaowu\\data\\fer2013\\test\\'
+label_test_path = '..\\xiaowu\\data\\fer2013\\labels_test.txt'
+tfRecord_test = '..\\xiaowu\\data\\fer2013\\fer2013_test.tfrecords'
 
-data_path = '.\\xiaowu\\data\\fer2013\\fer2013.csv'
-train_data_path = '.\\xiaowu\\data\\fer2013\\fer2013_train.csv'
-valid_data_path = '.\\xiaowu\\data\\fer2013\\fer2013_valid.csv'
-test_data_path = '.\\xiaowu\\data\\fer2013\\fer2013_test.csv'
+data_path = '..\\xiaowu\\data\\fer2013\\fer2013.csv'
+train_data_path = '..\\xiaowu\\data\\fer2013\\fer2013_train.csv'
+valid_data_path = '..\\xiaowu\\data\\fer2013\\fer2013_valid.csv'
+test_data_path = '..\\xiaowu\\data\\fer2013\\fer2013_test.csv'
 
-data_file = '.\\xiaowu\\data\\fer2013'
+data_file = '..\\xiaowu\\data\\fer2013'
 # 模型存储路径
-MODEL_SAVE_PATH = ".\\xiaowu\\model\\fer"
+MODEL_SAVE_PATH = "..\\xiaowu\\model\\fer2013"
 
 
 
